@@ -1,5 +1,5 @@
 ---
-title: Polisi: Gisel Rekam Video Syur, Lalu Dikirim ke Nobu Via AirDrop
+title: Gisel Rekam Video Syur Lalu Dikirim ke Nobu Via AirDrop
 author: Medsos
 date: 2020-12-29 20:33:00 +0800
 categories: [Selebritis, Gosip]
@@ -8,7 +8,6 @@ math: true
 mermaid: true
 image: /assets/img/gisel.jpg
 ---
-
 
 Artis Gisella Anastasia alias Gisel dan Michael Yukinobu Defretes atau Nobu telah mengaku pemeran di video syur adalah mereka berdua. Gisel sendiri mengaku merekam adegan video syur itu dan mengirimkannya kepada Michael Yukinobu Defretes.
 

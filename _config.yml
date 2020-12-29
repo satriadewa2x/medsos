@@ -1,20 +1,31 @@
-title: Medsos                          
-tagline: Media Sosial Trending Topik   
+title: Medsos 
+                         
+tagline: Media Sosial Trending Topik  
+ 
 description: >-                       
   Berita Terkini yang sedang trending di Indonesia
+  
 url: 'https://medsos.cyou'
-author: Medsos                  
+
+author: Medsos             
+     
 avatar: /assets/img/sample/avatar.jpg   
+
 twitter:
-  username: i0Sh0w          
+  username: i0Sh0w    
+  
 social:
   name: Medsos                  
   email: keporepublic@gmail.com  
   links:
   - https://medsos.cyou 
+  
 google_site_verification: google-site-verification=4GcY9__TvIbxUgFS7AEJvrnJ6rU5cuu4OF2c-gnmnsY 
+
 baseurl: ''
+
 timezone: Asia/Jakarta
+
 google_analytics:
   id: 'G-GGDNXBRH90'       
   pv:
@@ -22,26 +33,35 @@ google_analytics:
     proxy_url: ''
     proxy_endpoint: ''
     cache: false 
+    
 disqus:
   comments: true  
-  shortname: 'medsosx'    
+  shortname: 'medsosx' 
+  
 theme_mode:   # <light|dark>
+
 toc: true
+
 paginate: 10
+
 kramdown:
-  syntax_highlighter: rouge
+  syntax_highlighter: rouge   # Rouge Options › https://github.com/jneen/rouge#full-options
   syntax_highlighter_opts:  
     css_class: highlight
-      span:
+    
+    span:
       line_numbers: false
     block:
       line_numbers: true
       start_line: 1
+      
 permalink: /:title/
+
 collections:
   tabs:
     output: true
     sort_by: order
+    
 defaults:
   -
     scope:
