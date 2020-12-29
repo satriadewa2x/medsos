@@ -11,4 +11,6 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+> Siapa yang tidak kenal dengan media sosial seperti Instagram, Tiktok, Twitter atau Facebook? Pengguna Smartphone pasti pernah dan sering mengakses medsos, entah sekedar untuk mengisi waktu luang sambil rebahan di rumahan, atau saat sedang mencari sebuah informasi terbaru yang sedang viral.
+
+> Salam, Medsos Cyou!

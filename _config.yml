@@ -23,19 +23,19 @@ author: Medsos                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
-github:
-  username: SatriaDewa2X             # change to your github username
+# github:
+# username: SatriaDewa2X             # change to your github username
 
 twitter:
   username: i0Sh0w            # change to your twitter username
 
 social:
   name: Medsos                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  email: keporepublic@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/i0Sh0w      # change to your twitter homepage
-    - https://github.com/satriadewa2x       # change to your github homepage
+    - https://medsos.cyou     # change to your twitter homepage
+    #  - https://github.com/satriadewa2x       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
