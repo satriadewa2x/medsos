@@ -21,6 +21,6 @@ Rata-rata mereka memposting kolase gambar laman Youtube yang menampilkan posting
 
 Kementerian Luar Negeri RI pun lewat juru bicaranya, Teuku Faizasyah, menyatakan bahwa kasus ini sudah diurus oleh Polisi Diraja Malaysia untuk mencari pelakunya. Pemerintah Malaysia, lewat Kedutaan Besar Malaysia di Indonesia, mencermati kasus lagu Indonesia Raya yang dibuat parodi. Kedubes Malaysia memastikan pihak berwenang sedang menyelidiki masalah tersebut.
 
-```
+```twit
 Sumber: detik.com
 ```
